@@ -1,3 +1,5 @@
+# This script has examples for the use of the grep function
+
 drug <- c("","Bup","Nal","Bup,Nal")
 df <- data.frame(drug)
 
